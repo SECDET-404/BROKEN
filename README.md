@@ -37,4 +37,4 @@ FREE 2005-2009 cloner...THIS IS A FREE COMMAND SO DON'T MISUSE THIS COMMAND
 
 
 
-![Visitor Count](https://profile-counter.glitch.me/SECDET/BROKEN/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/SECDET/count.svg)
